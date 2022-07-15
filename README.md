@@ -1,6 +1,6 @@
 # cryptography-decoder
 Summer 2022 CECS0912 Intro to Cryptography
-Prompt:
+
 Encryption:
 
 The first step is to change the letter of plaintext to its corresponding letter according to the following key:

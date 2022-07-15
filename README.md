@@ -1,5 +1,6 @@
 # cryptography-decoder
 Summer 2022 CECS0912 Intro to Cryptography
+Prompt:
 Encryption:
 
 The first step is to change the letter of plaintext to its corresponding letter according to the following key:
@@ -61,4 +62,4 @@ Solutions:
 2. THISISFUN
 3. DOGSARECUTE
 4. HOWAREYOU
-5. SUMMERVACATIOn
+5. SUMMERVACATION
